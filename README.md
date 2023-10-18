@@ -1,4 +1,4 @@
-#Social Network Ads using K-NN
+# Social Network Ads using K-NN
 A categorical dataset to determine whether a user purchased a particular product
 
 About Dataset
